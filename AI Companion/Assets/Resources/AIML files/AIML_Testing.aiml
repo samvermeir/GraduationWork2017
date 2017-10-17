@@ -1,0 +1,19 @@
+<aiml version = "1.0.1" encoding = "UTF-8">
+   <category>
+      <pattern>Hello computer</pattern>
+      <template>Hello User!</template>
+   </category>
+    <category>
+      <pattern>Testing</pattern>
+      <template>The Test was succesfull!</template>
+   </category>
+       <category>
+      <pattern>what *</pattern>
+      <template>test wildcard star completed and succesfull</template>
+   </category>
+      </category>
+       <category>
+      <pattern>testingsrai</pattern>
+      <template><srai>Testing</srai></template>
+   </category>
+</aiml>
